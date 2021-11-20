@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uditha Abesekara.
 - 👀 I’m interested in Software Developing.
-- 🌱 I’m currently learning GUI developing.
+- 🌱 I’m currently learning java GUI .
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me -> udithaabesekara3@gmail.com
 
