@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uditha Abesekara.
 - 👀 I’m interested in Software Developing.
-- 🌱 I’m currently learning how to improve time complexity of code and improving my skills in problem solving.
+- 🌱 I’m currently building projects and improving my skills in problem solving.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me -> udithaabesekara3@gmail.com
 
